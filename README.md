@@ -1,2 +1,2 @@
 # GREAT_LAT
-low-altitude twin of GREAT Lab, SHU
+Low-Altitude Twin of GREAT Lab, SHU
